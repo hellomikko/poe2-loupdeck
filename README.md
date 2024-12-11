@@ -26,4 +26,5 @@ Be sure to check out the wiki for how-to's as far as understanding how to get th
 
 ## What Now?
 - Well if you like the small project and would like to contribute, be sure again, to have the pre-req's, a [Github account(free)](https://github.com/) and own Path of Exile 2 on either Steam or Epic Games. This will include the Standalone PoE2 Installer provided only on the main [PoE website](https://pathofexile.com)
-- Fork the repo
+- [Fork](https://github.com/hellomikko/poe2-loupdeck/fork) the repo
+- Be sure you leave the credits which links to here.
